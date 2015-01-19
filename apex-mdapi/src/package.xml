@@ -24,12 +24,6 @@
         <name>ApexPage</name>
     </types>
     <types>
-        <members>MetadataBrowser</members>
-        <members>MetadataDeployDemo</members>
-        <members>MetadataRetrieveDemo</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
         <members>MetadataServicePatcher</members>
         <members>MetadataServicePatcher/MetadataServicePatchedCopy</members>
         <name>Document</name>
